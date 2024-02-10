@@ -4,7 +4,7 @@ version:            0.1.0.0
 synopsis:           General datatypes for music creation for one instrument
 description:        Inspired by the video by the link: <https://www.youtube.com/watch?v=rhgt3lZ1RUU>. A continuation of the work on @algorithmic-composition-basic@ and @dobutokO2@ series of packages.
 homepage:           https://hackage.haskell.org/package/word-notes-datatype
-bug-tracker:        https://github.com/Oleksandr-Zhabenko/word-notes-datatype/issues
+bug-reports:        https://github.com/Oleksandr-Zhabenko/word-notes-datatype/issues
 license:            MIT
 license-file:       LICENSE
 author:             Oleksandr Zhabenko
